@@ -4,3 +4,6 @@ This is my graduation project written in Java. It's a client-server app that giv
 ##
 The Server can edit the data, the Client can only read it but not directly from the database, only through the server. 
 The UI is made with JavaFX through the SceneBuilder. 
+##
+The signs.sql file contains all the database data needed to test out the app. 
+In the DataBaseConfig.java file you can edit the database configuration if needed for the user/password/database name.
